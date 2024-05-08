@@ -28,8 +28,15 @@ At the moment, fragments of petrified forest can be found on the Batumi-Akhaltsi
 https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bunebis-dzegli /
 
 2.
+![2024-05-09_01-11-12.jpg](2024-05-09_01-11-12.jpg)
 
-3.41.643991, 42.491336 Batumi-Akhaltsikhe,Georgia
+![2024-05-09_01-11-54.jpg](2024-05-09_01-11-54.jpg)
+
+![2024-05-09_01-12-47.jpg](2024-05-09_01-12-47.jpg)
+
+3.
+
+41.643991, 42.491336 Batumi-Akhaltsikhe,Georgia
 
 41.630692, 42.491483 Batumi-Akhaltsikhe,Georgia
 
@@ -43,7 +50,7 @@ https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bun
 5.
 [Batumi Archaeological Museum](https://ajaramuseums.ge/ru/museums/arch)
 
-![IMG_0332.JPG](IMG_0332.JPG)
+
 
 
 
