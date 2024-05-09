@@ -28,6 +28,7 @@ At the moment, fragments of petrified forest can be found on the Batumi-Akhaltsi
 1.
 [Goderdzi Petrified Forest Natural Monument](m.wikipedia.org/wiki/Goderdzi_Petrified_Forest_Natural_Monument)
 
+http://science.org.ge/bnas/t13-n4/11_Poporadze.pdf
 
 https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bunebis-dzegli /
 
@@ -86,6 +87,8 @@ https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bun
 https://ru.m.wikipedia.org/wiki/Годердзи (უღელტეხილი)
 https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bunebis-dzegli /
 
+
+http://science.org.ge/bnas/t13-n4/11_Poporadze.pdf 
 2
 
 ![2024-05-09_01-11-12.jpg](2024-05-09_01-11-12.jpg)
