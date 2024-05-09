@@ -1,5 +1,9 @@
 # Hello
 
+## ქართულ ენაზე იხილეთ ქვემოთ
+
+русский язык ниже
+
 Most likely, you are holding in your hands one of the specimens of a petrified tree from the Goderdzi Pass, Adjara, Sakartvelo.
 This tree turned to stone about 5-7 million years ago, as a result of powerful volcanic activity of the Tertiary period, which hid the existing tropical forest under lava and ash. Organics went through a path of replacement and crystallization of rocks. It turned into quartz, opals, chalcedones, agates, etc.
 
@@ -48,6 +52,67 @@ https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bun
 [The nature monument "Petrified forest of Goderdzi"](http://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bunebis-dzegli/)
 
 5.
+[Batumi Archaeological Museum](https://ajaramuseums.ge/ru/museums/arch)
+
+![IMG_0361.JPG](IMG_0361.JPG)
+
+
+
+![PW/IMG_0319.JPG](IMG_0319.JPG)
+
+# გამარჯობა!
+
+
+თქვენ გიჭირავთ ხელში გაქვავებული ხის ერთ-ერთი ეგზემპლარი გოდერძის უღელტეხილიდან,აჭარა, საქართველო!
+ეს ხე გარდაიქმნა ქვად 5-7 მილიონი წლის წინ, მძლავრი ვულკანური აქტიურობის შედეგად, მესამეული სისტემის პერიოდის დროს, რამაც დამარხა იმ დროს არსებული ტროპიკული ტყე
+ლავის და ფერფლის ქვეშ. ორგანიკამ გაიარა ნიადაგის შერევის და კრისტალიზაციის პროცესი,გარდაიქმნა კვარცად,აგატებად, ქალცედონებად და ოპალებად.
+
+   პირველი ცნობილი ექსპედიციები 1908-1910 წლებში იყო, ალექსანდრე ფლორენსკის მიერ გაქვავებული ხის ფრაგმენტების პოვნის შემდეგ (ფილოსოფოსის პავლე ფლორენსკის მამის) 
+ბათუმი-ახალციხის გზის მშენებლობის დროს.იქნა ნაპოვნი გაქვავებული, გვიანი პლეოცენის პერიოდის ტყის მცენარეები - პალმა, მაგნოლია,ბზა,ალვის ხე, წიფელა. ნაკვალევის სახით იქნა შენახული 
+ნახევრად გაქვავებული ფოთლები და ტოტები ვულკანურ ტუფში.
+
+ შემდეგში ამ მოვლენებს მოჰყვა მთელი რიგი ექსპედიციები, რომელთა დახმარებითაც იქნა შესაძლებელი დეტალურად აღწერილიყო
+რეგიონში გაქვავებული ტყის ფორმირება. ყველა ბმულს სტატიების,პუბლიკაციების და სამეცნიერო მოკვლევის შესახებ იპოვით ქვემოთ (1)
+ასევე ჩვენ დაურთავთ,ქვების ძებნის და მოპოვების პროცესის საკუთარ მატერიალებს,ასევე გეოლოგიური ექსპერტიზის რეზულტატებს(2023). უფრო
+დეტალური შესწავლისთვის, ჩვენ ავიღეთ რამოდენიმე პოპულარული ეგზემპლარები,რომ განგვესაზღვრა მათი შემადგენლობა (2)
+თქვენ შეგიძლით თვითნებურად შეისწავლოთ მარშუტი,ჩვენი გეო-თეგების გამოყენებით(3)
+მოცემულ მომენტში, გაქვავებული ტყის ფრაგმენტების ნახვა შესაძლებელია ბათუმი-ახალციხის დამაკავშირებელ გზაზე,მესხეთის რაიონში, როცა აღმოჩნდებით გოდერძის ნამარხი ტყის ბუნების ძეგლთან(4) ან
+ან შეგიძლიათ ესტუმროთ ბათუმის არქეოლოგიურ მუზეუმს(5). ზოგი ეგზემპლარის ნახვა შეიძლება ასევე არქეოლოგიურ მუზეუმებში სომხეთის და რუსეთის ტერიტორიაზე.
+
+
+## ბმულები:
+
+1 
+https://ru.m.wikipedia.org/wiki/Годердзи (უღელტეხილი)
+https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bunebis-dzegli /
+
+2
+
+![2024-05-09_01-11-12.jpg](2024-05-09_01-11-12.jpg)
+
+![2024-05-09_01-11-54.jpg](2024-05-09_01-11-54.jpg)
+
+![2024-05-09_01-12-47.jpg](2024-05-09_01-12-47.jpg)
+
+3
+
+41.643991, 42.491336 Batumi-Akhaltsikhe,Georgia
+
+41.630692, 42.491483 Batumi-Akhaltsikhe,Georgia
+
+41.627324, 42.530111 Goderdzi Pass-Beshumi,Georgia
+
+41.638980, 42.582749 Batumi-Akhaltsikhe,Georgia
+
+4.
+
+ბუნების ძეგლი "გოდერძის გაქვავებული ტყე"
+[The nature monument "Petrified forest of Goderdzi"](http://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bunebis-dzegli/)
+
+
+5.
+
+ბათუმის არქეოლოგიური მუზეუმი
 [Batumi Archaeological Museum](https://ajaramuseums.ge/ru/museums/arch)
 
 
