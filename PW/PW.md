@@ -115,7 +115,10 @@ https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bun
 ბათუმის არქეოლოგიური მუზეუმი
 [Batumi Archaeological Museum](https://ajaramuseums.ge/ru/museums/arch)
 
-![PW/IMG_0332.JPG](PW/IMG_0332.JPG)
+
+![PW/IMG_0332.JPG](IMG_0332.JPG)
+![PW/IMG_0326.JPG](IMG_0326.JPG)
+![PW/IMG_0309.JPG](IMG_0309.JPG)
 
 ## Привет
 
