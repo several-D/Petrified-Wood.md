@@ -61,6 +61,9 @@ https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bun
 
 ![PW/IMG_0319.JPG](IMG_0319.JPG)
 
+contacts adjara_stone@riseup.net
+ING @adjara_stone
+
 # გამარჯობა!
 
 
@@ -141,6 +144,9 @@ http://science.org.ge/bnas/t13-n4/11_Poporadze.pdf
 Вы можете самостоятельно изучить маршрут используя наши гео-теги (3)
 
 В данный момент, фрагменты окаменелого леса можно встретить на трассе Батуми-Ахалцихе, область Месхети; приехав в "Природный памятник окаменелый лес Годердзи" (4) или посетив Батумский археологический музей (Сакартвело)(5). Некоторые экземпляры можно найти в археологических музеях на территориях Армении и России.
+
+contacts adjara_stone@riseup.net
+ING @adjara_stone
 
 ## сноски:
 
