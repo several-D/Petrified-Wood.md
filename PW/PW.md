@@ -7,7 +7,7 @@
 Most likely, you are holding in your hands one of the specimens of a petrified tree from the Goderdzi Pass, Adjara, Sakartvelo.
 This tree turned to stone about 5-7 million years ago, as a result of powerful volcanic activity of the Tertiary period, which hid the existing tropical forest under lava and ash. Organics went through a path of replacement and crystallization of rocks. It turned into quartz, opals, chalcedones, agates, etc.
 
-
+![125.jpg](125.jpg)
 
 
 ![IMG_0328.JPG](IMG_0328.JPG)
@@ -260,6 +260,5 @@ https://ajaramuseums.ge/ru/museum
 
 ## Agates, Chalcedony,Calcite. the village of Fersa, the Shurdo deposit.
 ![14.jpg](14.jpg)
-![125.jpg](125.jpg)
 ![IMG_2157.JPG](IMG_2157.JPG)
 ![IMG_2192.JPG](IMG_2192.JPG)
