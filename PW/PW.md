@@ -265,13 +265,11 @@ Obsidian is a natural volcanic glass, an effusive (igneous) rock formed as a res
 
 ## Apoffilite, Analcime, Fluorapophyllite, Uraveli River, Akhltsikhe.
 
+![IMG_2651.JPG](IMG_2651.JPG)
+![IMG_2655.JPG](IMG_2655.JPG)
+![IMG_2659.JPG](IMG_2659.JPG)
 
 
-![IMG_2048.JPG](IMG_2048.JPG)
-![IMG_2060.JPG](IMG_2060.JPG)
-![IMG_2071.JPG](IMG_2071.JPG)
-![IMG_2091.JPG](IMG_2091.JPG)
-![IMG_2117.JPG](IMG_2117.JPG)
 
 ## Agates, Chalcedony,Calcite. the village of Fersa, the Shurdo deposit.
 
@@ -280,4 +278,9 @@ Obsidian is a natural volcanic glass, an effusive (igneous) rock formed as a res
 ![IMG_2157.JPG](IMG_2157.JPG)
 ![IMG_2192.JPG](IMG_2192.JPG)
 ![903.jpg](903.jpg)
+![IMG_2048.JPG](IMG_2048.JPG)
+![IMG_2060.JPG](IMG_2060.JPG)
+![IMG_2071.JPG](IMG_2071.JPG)
+![IMG_2091.JPG](IMG_2091.JPG)
+![IMG_2117.JPG](IMG_2117.JPG)
 
