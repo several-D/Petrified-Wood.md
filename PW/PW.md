@@ -238,9 +238,24 @@ https://ajaramuseums.ge/ru/museum
 
 ### Obsidian, Lake Paravani, Chikiani mountain.
 
+
 ![11.jpg](11.jpg)
 ![22(2).jpg](22(2).jpg)
 ![33(2).jpg](33(2).jpg)
 ![44.jpg](44.jpg)
 ![55.jpg](55.jpg)
 ![66.jpg](66.jpg)
+
+
+
+## Apoffilite, Analcime, Fluorapophyllite, Uraveli River, Akhltsikhe.
+## Agates, Chalcedony. the village of Fersa, the Shurdo deposit.
+
+
+![IMG_2048.JPG](IMG_2048.JPG)
+![IMG_2060.JPG](IMG_2060.JPG)
+![IMG_2071.JPG](IMG_2071.JPG)
+![IMG_2091.JPG](IMG_2091.JPG)
+![IMG_2117.JPG](IMG_2117.JPG)
+![IMG_2157.JPG](IMG_2157.JPG)
+![IMG_2192.JPG](IMG_2192.JPG)
