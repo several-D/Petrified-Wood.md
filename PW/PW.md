@@ -35,7 +35,9 @@ At the moment, fragments of petrified forest can be found on the Batumi-Akhaltsi
 A petrified tree is a tree or remains of terrestrial vegetation that has been petrified, most often as a result of volcanic eruptions. 
 
 Organic matter hidden by clouds of volcanic ash, lava and mudflows (lahar) went through long processes of mineralization before becoming the stone we see.
+
 ![IMG_1069.JPG](IMG_1069.JPG)
+
 Petrifaction is the result of a tree or tree-like plants having been replaced by stone via a mineralization process that often includes permineralization and replacement. The organic materials making up cell walls have been replicated with minerals (mostly silica in the form of opal, chalcedony, or quartz). In some instances, the original structure of the stem tissue may be partially retained. Unlike other plant fossils, which are typically impressions or compressions, petrified wood is a three-dimensional representation of the original organic material.
 
 ![IMG_1061.JPG](IMG_1061.JPG)
@@ -77,6 +79,7 @@ https://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bun
 
 5.
 [Batumi Archaeological Museum](https://ajaramuseums.ge/ru/museums/arch)
+
 
 ![IMG_0361.JPG](IMG_0361.JPG)
 
@@ -163,10 +166,14 @@ http://science.org.ge/bnas/t13-n4/11_Poporadze.pdf
 Скорее всего, вы сейчас держите в руках один из экземпляров окаменелого дерева с перевала Годердзи, Аджария, Сакартвело. 
 Это дерево превратилось в камень около 5-7 млн лет назад, в результате мощной вулканической активности третичного периода, что скрыла существовавший тропический лес под лавой и пеплом. Органика прошла путь замещения и кристаллизации пород, превращаясь в кварц, опалы, халцедоны, агаты и др.
 
+![PW/IMG_1067.JPG](IMG_1067.JPG)
+
 Первые известные экспедиции в 1908-1910гг были сделаны после находок окаменелостей Александром Флоренским (отцом философа и богослова Павла Флоренского) при строительстве трассы Батуми-Ахалцихе (Арсиянский хребет). Были найдены окаменелости растений из леса позднего плиоцена — пальмы, магнолия, лавр, береза, граб, бук - сохранились в виде отпечатков полу-окаменелых листьев и стеблей в вулканическом туфе.
 
 Далее последовали серии экспедиций позволившие подробнее описать и изучить условия формирования окаменелого леса в регионе.
 Все ссылки на статьи, публикации и научные отчеты вы найдете ниже (1).
+
+![PW/IMG_1086.JPG](IMG_1086.JPG)
 
 Также мы прилагаем собственные материалы поиска и нахождения камней а также, результаты геммологической экспертизы (2023Г). Для более подробного изучения, мы взяли несколько популярных экземпляров, чтобы определить их примерный состав.(2)
 
@@ -262,6 +269,7 @@ Obsidian is a natural volcanic glass, an effusive (igneous) rock formed as a res
 ![IMG_2117.JPG](IMG_2117.JPG)
 
 ## Agates, Chalcedony,Calcite. the village of Fersa, the Shurdo deposit.
+
 ![14.jpg](14.jpg)
 ![IMG_2200.JPG](IMG_2200.JPG)
 ![IMG_2157.JPG](IMG_2157.JPG)
