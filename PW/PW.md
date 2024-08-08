@@ -19,9 +19,32 @@ The first known expeditions in 1908-1910 were made after the discovery of fossil
 They were palms, magnolia, laurel, birch, hornbeam, beech - all preserved as imprints of semi-fossilized leaves and stems in volcanic tuff.
 That followed a series of expeditions that allowed to describe and study the condition   of petrified forest formation in the region. All links to articles, publications and scientific reports can be found below (1).
 
+![IMG_1080.JPG](IMG_1080.JPG)
+
 We also enclose our own materials of searching and finding stones and the results of gemological examination (2023G). For a more detailed study, we have taken some popular specimens to determine their approximate composition.(2)
+
+![IMG_2597.JPG](IMG_2597.JPG)
+
 You can explore the route yourself using our geo-tags (3)
 At the moment, fragments of petrified forest can be found on the Batumi-Akhaltsikhe highway, Meskheti region; when you come to the "Natural Monument Goderdzi Petrified Forest" (4) or to the village of Kabardino-Badakhshan (4), you can visit the "Nature Monument Goderdzi Petrified Forest" (3).(4) or by visiting the Batumi Archaeological Museum (Sakartvelo)(5). Some specimens can be found in archaeological museums in the territories of Armenia and Russia.
+
+![IMG_2536.JPG](IMG_2536.JPG)
+
+## What is petrified wood and how does it happen?
+
+A petrified tree is a tree or remains of terrestrial vegetation that has been petrified, most often as a result of volcanic eruptions. 
+
+Organic matter hidden by clouds of volcanic ash, lava and mudflows (lahar) went through long processes of mineralization before becoming the stone we see.
+
+Petrifaction is the result of a tree or tree-like plants having been replaced by stone via a mineralization process that often includes permineralization and replacement. The organic materials making up cell walls have been replicated with minerals (mostly silica in the form of opal, chalcedony, or quartz). In some instances, the original structure of the stem tissue may be partially retained. Unlike other plant fossils, which are typically impressions or compressions, petrified wood is a three-dimensional representation of the original organic material.
+
+![IMG_1061.JPG](IMG_1061.JPG)
+
+Permineralization is the first step in petrification. In petrification, the cellulose cell walls are completely replaced by minerals.
+
+The petrifaction process occurs underground, when wood becomes buried in water or volcanic ash. The presence of water reduces the availability of oxygen which inhibits aerobic decomposition by bacteria and fungi. Mineral-laden water flowing through the sediments may lead to permineralization, which occurs when minerals precipitate out of solution filling the interiors of cells and other empty spaces. During replacement, the plant's cell walls act as a template for mineralization
+
+However, petrified wood is most commonly associated with trees that were buried in fine grained sediments of deltas and floodplains or volcanic lahars and ash beds.Forest where such material has petrified becomes known as a petrified forest.
 
 ## footnotes:
 
@@ -71,13 +94,19 @@ ING @adjara_stone
 ეს ხე გარდაიქმნა ქვად 5-7 მილიონი წლის წინ, მძლავრი ვულკანური აქტიურობის შედეგად, მესამეული სისტემის პერიოდის დროს, რამაც დამარხა იმ დროს არსებული ტროპიკული ტყე
 ლავის და ფერფლის ქვეშ. ორგანიკამ გაიარა ნიადაგის შერევის და კრისტალიზაციის პროცესი,გარდაიქმნა კვარცად,აგატებად, ქალცედონებად და ოპალებად.
 
+![IMG_1145.JPG](IMG_1145.JPG)
+
    პირველი ცნობილი ექსპედიციები 1908-1910 წლებში იყო, ალექსანდრე ფლორენსკის მიერ გაქვავებული ხის ფრაგმენტების პოვნის შემდეგ (ფილოსოფოსის პავლე ფლორენსკის მამის) 
 ბათუმი-ახალციხის გზის მშენებლობის დროს.იქნა ნაპოვნი გაქვავებული, გვიანი პლეოცენის პერიოდის ტყის მცენარეები - პალმა, მაგნოლია,ბზა,ალვის ხე, წიფელა. ნაკვალევის სახით იქნა შენახული 
 ნახევრად გაქვავებული ფოთლები და ტოტები ვულკანურ ტუფში.
 
+![IMG_1075.JPG](IMG_1075.JPG)
 
  შემდეგში ამ მოვლენებს მოჰყვა მთელი რიგი ექსპედიციები, რომელთა დახმარებითაც იქნა შესაძლებელი დეტალურად აღწერილიყო
 რეგიონში გაქვავებული ტყის ფორმირება. ყველა ბმულს სტატიების,პუბლიკაციების და სამეცნიერო მოკვლევის შესახებ იპოვით ქვემოთ (1)
+
+![IMG_1055.JPG](IMG_1055.JPG)
+
 ასევე ჩვენ დაურთავთ,ქვების ძებნის და მოპოვების პროცესის საკუთარ მატერიალებს,ასევე გეოლოგიური ექსპერტიზის რეზულტატებს(2023). უფრო
 დეტალური შესწავლისთვის, ჩვენ ავიღეთ რამოდენიმე პოპულარული ეგზემპლარები,რომ განგვესაზღვრა მათი შემადგენლობა (2)
 თქვენ შეგიძლით თვითნებურად შეისწავლოთ მარშუტი,ჩვენი გეო-თეგების გამოყენებით(3)
@@ -197,8 +226,15 @@ http://apa.gov.ge/en/protected-areas/Naturalmonument/goderdzis-namarxi-tyis-bune
 https://ajaramuseums.ge/ru/museum
 
 
+## Что такое окаменелое дерево и как происходит процесс окаменения? 
 
+Окаменевшее дерево – это дерево или остатки наземной растительности, окаменевшие, чаще всего в результате извержений вулканов. Органическое вещество, скрытое облаками вулканического пепла, лавы и селевых потоков (лахара), прошло долгие процессы минерализации, прежде чем стать камнем, который мы видим. 
 
+Окаменение является результатом замены дерева или древовидных растений камнем в результате процесса минерализации, который часто включает перминерализацию и замену. Органические материалы, составляющие клеточные стенки, были воспроизведены с помощью минералов (в основном кремнезема в форме опала, халцедона или кварца). В некоторых случаях исходная структура ткани стебля может частично сохраняться. В отличие от других окаменелостей растений, которые обычно представляют собой отпечатки или сжатия, окаменевшая древесина представляет собой трехмерное изображение исходного органического материала. 
+
+Перминерализация является первым шагом на пути к петрификации. При окаменении клеточные стенки целлюлозы полностью замещаются минералами. Процесс окаменения происходит под землей, когда древесина погружается в воду или вулканический пепел. Присутствие воды снижает доступность кислорода, который подавляет аэробное разложение бактериями и грибами. Вода, насыщенная минералами, протекающая через отложения, может привести к перминерализации, которая происходит, когда минералы выпадают в осадок из раствора, заполняя внутренности клеток и другие пустые пространства. Во время замены клеточные стенки растения действуют как шаблон для минерализации. Однако окаменелая древесина чаще всего связана с деревьями, которые были погребены в мелкозернистых отложениях дельт и пойм или в вулканических лахарах и слоях пепла. Лес, в котором такой материал окаменел, становится известен как окаменелый лес.
+
+![IMG_2597.JPG](IMG_2597.JPG)
 
 
 
