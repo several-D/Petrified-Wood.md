@@ -35,7 +35,7 @@ At the moment, fragments of petrified forest can be found on the Batumi-Akhaltsi
 A petrified tree is a tree or remains of terrestrial vegetation that has been petrified, most often as a result of volcanic eruptions. 
 
 Organic matter hidden by clouds of volcanic ash, lava and mudflows (lahar) went through long processes of mineralization before becoming the stone we see.
-
+![IMG_1069.JPG](IMG_1069.JPG)
 Petrifaction is the result of a tree or tree-like plants having been replaced by stone via a mineralization process that often includes permineralization and replacement. The organic materials making up cell walls have been replicated with minerals (mostly silica in the form of opal, chalcedony, or quartz). In some instances, the original structure of the stem tissue may be partially retained. Unlike other plant fossils, which are typically impressions or compressions, petrified wood is a three-dimensional representation of the original organic material.
 
 ![IMG_1061.JPG](IMG_1061.JPG)
@@ -238,13 +238,17 @@ https://ajaramuseums.ge/ru/museum
 
 ### Obsidian, Lake Paravani, Chikiani mountain.
 
+41.47953219448486, 43.8646742528099
+
+Obsidian is a natural volcanic glass, an effusive (igneous) rock formed as a result of rapid cooling of lava (molten rocks). The main forming minerals are quartz and feldspar
+
 
 ![11.jpg](11.jpg)
-![33(2).jpg](33(2).jpg)
 ![44.jpg](44.jpg)
 ![55.jpg](55.jpg)
 ![66.jpg](66.jpg)
-
+![223.jpg](223.jpg)
+![224.jpg](224.jpg)
 
 
 ## Apoffilite, Analcime, Fluorapophyllite, Uraveli River, Akhltsikhe.
@@ -259,5 +263,6 @@ https://ajaramuseums.ge/ru/museum
 
 ## Agates, Chalcedony,Calcite. the village of Fersa, the Shurdo deposit.
 ![14.jpg](14.jpg)
+![IMG_2200.JPG](IMG_2200.JPG)
 ![IMG_2157.JPG](IMG_2157.JPG)
 ![IMG_2192.JPG](IMG_2192.JPG)
