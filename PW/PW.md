@@ -249,7 +249,7 @@ https://ajaramuseums.ge/ru/museum
 
 
 ## Apoffilite, Analcime, Fluorapophyllite, Uraveli River, Akhltsikhe.
-## Agates, Chalcedony. the village of Fersa, the Shurdo deposit.
+
 
 
 ![IMG_2048.JPG](IMG_2048.JPG)
@@ -257,5 +257,9 @@ https://ajaramuseums.ge/ru/museum
 ![IMG_2071.JPG](IMG_2071.JPG)
 ![IMG_2091.JPG](IMG_2091.JPG)
 ![IMG_2117.JPG](IMG_2117.JPG)
+
+## Agates, Chalcedony,Calcite. the village of Fersa, the Shurdo deposit.
+![14.jpg](14.jpg)
+![125.jpg](125.jpg)
 ![IMG_2157.JPG](IMG_2157.JPG)
 ![IMG_2192.JPG](IMG_2192.JPG)
