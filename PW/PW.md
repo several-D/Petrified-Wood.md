@@ -236,5 +236,11 @@ https://ajaramuseums.ge/ru/museum
 
 ![IMG_2525.JPG](IMG_2525.JPG)
 
+### Obsidian, Lake Paravani, Chikiani mountain.
 
-
+![11.jpg](11.jpg)
+![22(2).jpg](22(2).jpg)
+![33(2).jpg](33(2).jpg)
+![44.jpg](44.jpg)
+![55.jpg](55.jpg)
+![66.jpg](66.jpg)
