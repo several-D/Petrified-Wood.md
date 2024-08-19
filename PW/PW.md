@@ -273,6 +273,7 @@ Obsidian is a natural volcanic glass, an effusive (igneous) rock formed as a res
 
 
 ## Apoffilite, Analcime, Fluorapophyllite, Uraveli River, Akhaltsikhe.
+## აპოფილიტი, ანალციმი,მდინარე ურაველი,ახალციხე 
 
 ![IMG_2651.JPG](IMG_2651.JPG)
 ![IMG_2655.JPG](IMG_2655.JPG)
