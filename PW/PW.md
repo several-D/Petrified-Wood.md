@@ -308,7 +308,7 @@ Obsidian is a natural volcanic glass, an effusive (igneous) rock formed as a res
 
 Характеристики халцедона из региона Самцхве-Джавахетия
 
-![IMG_4138.JPG](PW/IMG_4138.JPG)
+![PW/IMG_4138.JPG](PW/IMG_4138.JPG)
 
 Генетическая группа:
 Эндогенная
